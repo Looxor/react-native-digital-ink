@@ -1,0 +1,14 @@
+/data/data/com.chinesedic/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604676131634/qrnn.ko.reco_20191217.fst_20190322.recospec.local
+/data/data/com.chinesedic/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604676131396/qrnn.zh.reco_20191217.fst_none.recospec.local
+/data/data/com.chinesedic/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604676131636/ko.compact.fst.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376209/en.compact.fst.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376329/qrnn.zh.reco_20191217.fst_none.recospec.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376569/ko.compact.fst.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376208/qrnn.en.reco_20200318.fst_20191208.recospec.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376567/qrnn.ko.reco_20191217.fst_20190322.recospec.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376425/af.compact.fst.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376069/qrnn.sq.reco_20200318.fst_20191208.recospec.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376424/qrnn.af.reco_20200318.fst_20191208.recospec.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376070/sq.compact.fst.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376075/qrnn.am.reco_20191211.fst_20191211.recospec.local
+/data/data/com.example.reactnativedigitalink/files/mlkit_digital_ink_recognition/shared/datadownload/public/datadownloadfile_1604630376077/am.compact.fst.local
