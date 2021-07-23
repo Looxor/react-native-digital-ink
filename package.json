@@ -1,6 +1,6 @@
 {
   "name": "react-native-digital-ink",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "React Native module for using Digital Ink Recognition of Google ML Kit",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",

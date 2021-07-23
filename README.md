@@ -2,6 +2,16 @@
 
 React Native module for using Digital Ink Recognition of Google ML Kit
 
+<br />
+
+![Demo](./docs/demo.gif)  
+
+<br />
+<br />
+<br />
+   
+
+
 ## Installation
 
 ```sh
